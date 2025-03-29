@@ -369,7 +369,7 @@ int main() {
     }
 
 TiaoZhuan:
-    std::cout << "欢迎使用jiyuunlock v2.5\n";
+    std::cout << "欢迎使用jiyuunlock v2.6.2\n";
     std::cout << "详情命令请输入help 或查阅手册\n\n";
 
     DWORD targetProcessId = GetProcessIdByName(processName);
