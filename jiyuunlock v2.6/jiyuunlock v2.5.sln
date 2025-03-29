@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jiyuunlock v2.5", "jiyuunlock v2.5.vcxproj", "{33292C7A-8D0F-4722-93DD-1D9376786C98}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{82A23954-A0D5-E4C3-5500-861FACC02964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Debug|x64.ActiveCfg = Debug|x64
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Debug|x64.Build.0 = Debug|x64
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Debug|x86.ActiveCfg = Debug|Win32
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Debug|x86.Build.0 = Debug|Win32
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Release|x64.ActiveCfg = Release|x64
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Release|x64.Build.0 = Release|x64
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Release|x86.ActiveCfg = Release|Win32
+		{33292C7A-8D0F-4722-93DD-1D9376786C98}.Release|x86.Build.0 = Release|Win32
+		{82A23954-A0D5-E4C3-5500-861FACC02964}.Debug|x64.ActiveCfg = Debug
+		{82A23954-A0D5-E4C3-5500-861FACC02964}.Debug|x86.ActiveCfg = Debug
+		{82A23954-A0D5-E4C3-5500-861FACC02964}.Release|x64.ActiveCfg = Release
+		{82A23954-A0D5-E4C3-5500-861FACC02964}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B16D9E62-4500-43EB-AEA7-5E58F3FF620B}
+	EndGlobalSection
+EndGlobal
