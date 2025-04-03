@@ -91,4 +91,4 @@ help：查看命令列表。
 键盘钩子有时无法正常解除。
 
 关于下载安装程序：
-下载请转到https://wwyk.lanzoup.com/iZTtt2s1we6j
+下载请转到https://wwyk.lanzoup.com/b00uyg39ih  密码：1145
