@@ -161,3 +161,6 @@ unloadhook 命令依赖 ntdll.dll 的 NtSuspendProcess/NtResumeProcess，需确�
 
 关于下载安装程序：
 下载请转到https://wwyk.lanzoup.com/b00uyg39ih  密码：1145
+
+另外，此项目已经停止更新和维护。
+2025.6.14
